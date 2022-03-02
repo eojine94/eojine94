@@ -1,11 +1,8 @@
 <div>
 
-  <div align="center">
-    <h2>Hi there, Welcome ⭐️</h2>
-  </div>
+<h2>Hi there, Welcome ⭐️</h2>
   
-<h3>This is EJ Oh <br /> PASSIONATE frontend Enginner from South Korea </h3>
-
+<h4>This is EJ Oh , frontend Enginner from South Korea </h4>
 
 - 🌱 Currently interested in... React , TypeScript , Next.js
 - 📫 How to reach me : eojine294@gmail.com
@@ -20,6 +17,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <br />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
